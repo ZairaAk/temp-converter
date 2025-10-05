@@ -1,0 +1,53 @@
+body{
+    background-color: lightblue;
+}
+#box{
+    margin-top: 50px;
+}
+
+h1{
+    color:pink;
+    text-align: center;
+
+
+}
+
+#click{
+    border-radius: 5px;
+    color:black;
+    background-color:pink;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    
+
+}
+
+form{
+    background-color: white;
+    border:solid black 2px;
+    max-width: 50%;
+    margin-top: 40px;
+    text-align: center;
+    box-shadow: 5px 5px 15px black;
+    padding :20px;
+    margin:auto;
+
+  
+
+}
+
+#input{
+    width: 50%;
+    text-align: center;
+
+}
+
+#result{
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
